@@ -3,4 +3,8 @@ Fiz esse projeto como um teste, para aprender criar o readme dinossauro é uma p
 🦖🦖🦖
 <br>
 <br>
-<img src="https://github.com/amanda1996a/testeDeReade/blob/master/imgs/capa.png?raw=true"/>
+<img src="./imgs/capa.png"/>
+
+
+
+ 
